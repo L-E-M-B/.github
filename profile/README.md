@@ -1,5 +1,5 @@
 # Bem-vindo à nossa startup!<br>
-Nós somos uma equipe de 4 desenvolvedores fullstack, especializados em criar soluções inovadoras para nossos clientes. Nossa equipe é formada por pessoas talentosas e dedicadas, que trabalham em conjunto para encontrar as melhores soluções para nossos clientes.<br>
+Nós somos uma equipe de <strong> 4 desenvolvedores fullstack </strong>, especializados em criar soluções inovadoras para nossos clientes. Nossa equipe é formada por pessoas talentosas e dedicadas, que trabalham em conjunto para encontrar as melhores soluções para nossos clientes.<br>
 
 > Nossa Missão <br>
 Nosso objetivo é ajudar a melhorar a vida das pessoas e tornar o mundo um lugar melhor, por meio de soluções tecnológicas eficientes e inovadoras. Acreditamos que a tecnologia tem o poder de transformar o mundo e estamos comprometidos em usar nossas habilidades para criar soluções que tornem isso possível.<br>

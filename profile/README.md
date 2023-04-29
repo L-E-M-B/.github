@@ -11,6 +11,7 @@ Nossos Projetos <br>
 Nós temos vários projetos interessantes em andamento e estamos sempre buscando desafios e oportunidades de inovação. Nós convidamos você a explorar nossos projetos em nosso repositório do GitHub e experimentá-los você mesmo.
 
 Contato
- <!-- Se você estiver interessado em colaborar conosco ou tiver alguma dúvida, não hesite em entrar em contato conosco através do nosso e-mail: contato@startup.com. Estamos sempre abertos a novas oportunidades e ideias. -->
+ Se você estiver interessado em colaborar conosco ou tiver alguma dúvida, não hesite em entrar em contato conosco através do nosso e-mail: wikilemb@gmail.com
+ Estamos sempre abertos a novas oportunidades e ideias.
 
 
